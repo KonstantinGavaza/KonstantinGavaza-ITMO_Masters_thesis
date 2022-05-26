@@ -12,7 +12,7 @@ For each of the three approaches, two options will be considered as the basic op
 ●	optimization using a variation of the genetic algorithm;
 ●	optimization using a variation of the PSO algorithm.
 
-Objectives of study: \
+Objectives of study:
 1.	Conducting a literature review on the topics: \
 ●	optimization of the placement of wells in the field;\
 ●	optimization of linear objects;\
