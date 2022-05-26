@@ -16,12 +16,12 @@ Objectives of study:
 1.	Conducting a literature review on the topics: \
 ●	optimization of the placement of wells in the field;\
 ●	optimization of linear objects;\
-●	application of joint optimization algorithms.\
-2.	Search for oil field data in open sources for further experiments.\
-3.	Developing a naive approach: optimizing the location of wells and building roads through them without inaccessible points.\
-4.	Development of an evolutionary algorithm for optimizing the location of wells in the field.\
-5.	Development of an evolutionary algorithm to optimize the location of roads in the field.\
-6.	Development of a cooperative algorithm for optimizing wells and roads in the field.\
+●	application of joint optimization algorithms.
+2.	Search for oil field data in open sources for further experiments.
+3.	Developing a naive approach: optimizing the location of wells and building roads through them without inaccessible points.
+4.	Development of an evolutionary algorithm for optimizing the location of wells in the field.
+5.	Development of an evolutionary algorithm to optimize the location of roads in the field.
+6.	Development of a cooperative algorithm for optimizing wells and roads in the field.
 7.	Analysis of the effectiveness of the cooperative algorithm:\
 ●	convergence analysis of the cooperative algorithm;\
 ●	comparison of the results with the sequential application of the algorithms from points 3 and 4.
