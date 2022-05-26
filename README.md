@@ -26,5 +26,5 @@ Objectives of study:
 ●	convergence analysis of the cooperative algorithm;\
 ●	comparison of the results with the sequential application of the algorithms from points 3 and 4.
 
-
+Ref on GEFEST lib: https://github.com/ITMO-NSS-team/GEFEST
 
