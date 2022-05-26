@@ -8,7 +8,7 @@ The purpose of this work is to develop and analyze the effectiveness of a cooper
 ●	"A naive approach without taking into account roads."  Separate optimization of the location of wells without considering roads. And the construction of roads through all wells after their optimization. \
 ●	"Consistent optimization of wells and roads". This approach is based on two stages. During the first stage, there is a separate optimization of the location of wells without considering roads. At the second stage, a separate optimization of roads takes place, considering the already optimized location of wells
 
-For each of the three approaches, two options will be considered as the basic optimization algorithm:\ 
+For each of the three approaches, two options will be considered as the basic optimization algorithm: \ 
 ●	optimization using a variation of the genetic algorithm;\
 ●	optimization using a variation of the PSO algorithm.
 
